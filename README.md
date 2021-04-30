@@ -1,1 +1,1 @@
-# Redes-neuronal regresion-mejorada-con-GridSearchCV
+# Red-neuronal regresion-mejorada-con-GridSearchCV
